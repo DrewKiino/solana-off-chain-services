@@ -12,9 +12,9 @@ Test bed for creating and experimenting with different Solana web3 ideas.
 
     Currently runs a different service depending on the currently tested API uncommented in the code.
 
-## Ideas
+## Services
 
 1. Top 10 Token Account Watcher & Aggregator
 2. NFT Sniper
-3. Account Transaction Observer (total scrape both Future & Past)
+3. Account Transaction Scraper (historical aggregator of both Past & Future)
 
